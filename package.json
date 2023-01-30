@@ -1,0 +1,25 @@
+{
+  "name": "@anomaly-org/project-alpha",
+  "version": "0.0.1",
+  "description": "This doesn't have anything currently, but will grow with time.",
+  "main": "LICENSE",
+  "scripts": {
+    "test": "/Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CloverTheHacker/Project-Alpha.git"
+  },
+  "keywords": [
+    "cloverthehacker",
+    "clover",
+    "project-alpha"
+  ],
+  "author": "Clover Jordan",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/CloverTheHacker/Project-Alpha/issues"
+  },
+  "homepage": "https://github.com/CloverTheHacker/Project-Alpha#readme",
+  "devDependencies": {}
+}
