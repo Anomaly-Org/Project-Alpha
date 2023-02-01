@@ -11,6 +11,8 @@ whatever username you want, and pass to whatever password you want.
 
 ---
 
+**If you are a maintainer, editor, or owner of this repository, you are required to read SECURITY.md  Thank you for your cooperation.**
+
 If you have any questions or requests, please contact me at theblackguard05@execs.com
 
 Please refer to /LICENSE for Licensing information. Thanks.
