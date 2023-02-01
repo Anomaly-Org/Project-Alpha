@@ -11,6 +11,7 @@ All versions of this Project that are supported with this security policy are li
 | Version      | Supported          |
 | ------------ | ------------------ |
 | 0.0.1-alpha  | ✅                 |
+| 0.0.2-alpha  | ✅                 |
 
 ## Reporting a Vulnerability
 
